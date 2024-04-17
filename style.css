@@ -70,12 +70,12 @@ box-shadow: 5px 5px black;
     width: 100%;
 }
 
-.card-auhtor {
+.card-author {
     display: flex;
     align-items: center;
 }
 
-.card-auhtor-img{
-    width: 32px;
+.card-author-img{
+    width: 60px;
     margin-right: 10px;
 }
